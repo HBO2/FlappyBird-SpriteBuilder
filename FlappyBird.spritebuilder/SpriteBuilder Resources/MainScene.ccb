@@ -129,6 +129,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -142,7 +144,7 @@
 				<key>displayName</key>
 				<string>parallaxContainer</string>
 				<key>memberVarAssignmentName</key>
-				<string>_ parallaxContainer</string>
+				<string>_parallaxContainer</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -207,8 +209,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
